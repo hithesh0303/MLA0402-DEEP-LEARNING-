@@ -1,5 +1,6 @@
 # **MLA0402-DEEP-LEARNING**
 **OUTPUT**
+
 EXP 1:-
 Slope = 1.98 Intercept = 0.06 Iteration Loss
 0 44.0000 20 2.4137 40 0.5236 60 0.1322 80 0.0333 100 0.0084
