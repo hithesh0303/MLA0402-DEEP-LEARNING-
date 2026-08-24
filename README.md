@@ -1,5 +1,5 @@
 # **MLA0402-DEEP-LEARNING**
-# ** LAB OUTPUT **
+# **LAB OUTPUT**
 **OUTPUT**
 
 EXP 1:-
